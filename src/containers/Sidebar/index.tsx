@@ -12,9 +12,9 @@ const Sidebar = (props: Props) => (
   <aside>
     <SidebarContainer>
       <Avatar />
-      <Titulo fontSize={20}>Pedro Garcia</Titulo>
+      <Titulo fontSize={20}>Gian Souza</Titulo>
       <Paragrafo tipo="secundario" fontSize={16}>
-        pedrogarcia
+        ogiansouza
       </Paragrafo>
       <Descricao tipo="principal" fontSize={12}>
         Engenheiro front-end
